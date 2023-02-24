@@ -1,0 +1,34 @@
+
+Heuristics
+
+Rule 1 - Penalise high blocks
+
+Rule 2 - Avoid making holes
+
+Rule 3 - Reward Line clears
+
+Rule 4 - Prefer smooth boards
+
+Genetic AI
+
+Reproduce
+-highest fitness values
+-longest survival time (To a point)
+-Highest score
+
+Kill
+-Lower 50%
+
+
+Evolutions
+
+Model Crossover
+-Randomly select parents 
+-Randomly select genes
+
+Mutation
+-Randomly mutate gene pool (encourage biodiversity)
+-So the player doesnt strictly follow parents actions
+
+
+
